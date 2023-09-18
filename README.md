@@ -1,5 +1,5 @@
 # Telegram-Bot
-## This telegram Bot give you a meme every time you click /meme
+### This telegram Bot give you a meme every time you click /meme
 This bot is useful  if you are a contect maker it use API to take meme every time you press /meme then send it to you 
 # But this bot is not running becuse it code is not uplaoded on any server or paltform 
 # Scrennshot 🖼️
